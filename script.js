@@ -88,7 +88,7 @@ async function handleFormarCorazon() {
     await animateHeartTerminal();
     
     // Show final message
-    loverNameSpan.textContent = ', Sofía! ♥';
+    loverNameSpan.textContent = ', coeto! ♥';
     finalMessage.classList.remove('hidden');
     
     isAnimating = false;
@@ -225,4 +225,5 @@ nombreInput.addEventListener('input', function() {
 
 // Initial button state
 formarBtn.disabled = true;
+
 formarBtn.style.opacity = '0.5';
