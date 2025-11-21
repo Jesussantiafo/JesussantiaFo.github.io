@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Outfit', monospace;
-    background: #000;
+    background: #1a60d1b5;
     color: #cc3333;
     min-height: 100vh;
     overflow-x: hidden;
@@ -535,3 +535,4 @@ body {
         font-size: 1.5rem;
     }
 }
+
